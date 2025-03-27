@@ -12,17 +12,17 @@ const teamMembers = [
   {
     image: "naitik.jpeg",
     name: "Naitik Jain",
-    linkedin: "https://www.linkedin.com/in/naitik-jain/",
+    linkedin: "https://www.linkedin.com/in/naitik-jain-b48316290/",
   },
   {
     image: "yojit1.jpeg",
     name: "Yojit Kapoor",
-    linkedin: "https://www.linkedin.com/in/yojit-kapoor/",
+    linkedin: "https://www.linkedin.com/in/yojit-kapoor-337542293/",
   },
   {
     image: "aayush.png",
     name: "Aayush Kanjani",
-    linkedin: "https://www.linkedin.com/in/aayush-kanjani/",
+    linkedin: "https://www.linkedin.com/in/aayush-kanjani-105129280/",
   },
 ];
 
