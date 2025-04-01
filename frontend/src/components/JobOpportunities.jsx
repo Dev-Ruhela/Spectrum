@@ -36,7 +36,7 @@ const JobOpportunities = () => {
                   ) : (
                     <Briefcase className="w-12 h-12 text-gray-400" />
                   )} */}
-                  <img src="uber.png" alt="Company Logo" className="w-12 h-12 rounded-full" />
+                  <img src={job.logo} alt="Company Logo" className="w-12 h-12 rounded-full" />
                   <div>
                     <h3 className="text-xl font-semibold text-gray-900">{job.company}</h3>
                     <p className="text-sm text-gray-600">{job.role}</p>
