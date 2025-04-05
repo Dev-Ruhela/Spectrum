@@ -1,6 +1,5 @@
 # Spectrum
 
-```markdown
 # Spectrum – Empowering the LGBTQ+ Community
 
 Welcome to **Spectrum**, an inclusive platform designed to uplift and support the LGBTQ+ community through personalized job listings, community engagement, expert-led workshops, and instant AI-powered assistance.
