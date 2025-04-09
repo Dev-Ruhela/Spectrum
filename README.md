@@ -91,7 +91,6 @@ We’d love your thoughts!
 
 ## 👥 Authors
 
-**Team Butter Chicken**   
 - [@Naitik Jain](https://github.com/ParadoxNJ005)  
 - [@Yojit Kapoor](https://github.com/your-profile)  
 - [@Aayush Kanjani](https://github.com/your-profile)  
@@ -101,9 +100,3 @@ We’d love your thoughts!
 
 ```
 
-> ✅ Replace the placeholders like:
-- `https://drive.google.com/your-apk-link-here`
-- `https://yourspectrumwebsite.com`
-- Image links and GitHub profiles
-
-Let me know if you'd like a badge version or deployment badge for Vercel too!
