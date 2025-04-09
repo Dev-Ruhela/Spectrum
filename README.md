@@ -26,7 +26,7 @@ Spectrum’s mobile app offers a secure, personalized experience with:
 - 📢 **Community Forum** – Post, like, comment & share with media
 
 👉 **Download the APK**:  
-[Download Spectrum APK](https://drive.google.com/your-apk-link-here)
+[Download Spectrum APK](https://drive.google.com/file/d/13WLd_nN9BE56JxYhej5pbVDOxXB3z0O4/view?usp=sharing)
 
 ---
 
@@ -44,13 +44,6 @@ The Spectrum website mirrors the app’s core values while offering a smoother o
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*  
-Example:  
-![Screenshot](https://link-to-your-screenshot.png)
-
----
 
 ## 📥 Installation (for Developers)
 
@@ -64,8 +57,8 @@ flutter run
 
 ## 🌐 Landing Page & Admin Panel
 
-- 🔗 [Landing Page](https://your-landing-page-link.vercel.app)
-- 🔧 [Admin Panel](https://your-admin-panel-link.vercel.app)
+- 🔗 [Landing Page](https://spectrum-eight-bice.vercel.app/)
+
 
 ---
 
@@ -86,23 +79,19 @@ flutter run
 
 - Light/Dark mode switching  
 - AI-powered course recommendations  
-- TA Connect & Mentorship  
-- In-app calendar & notifications  
-- In-app quizzes  
-- iOS support  
 
 ---
 
 ## 🧠 Feedback
 
 We’d love your thoughts!  
-📧 Email us: **naitikjain2005@gmail.com**
+📧 Email us: **lgbtq.spectrum1@gmail.com**
 
 ---
 
 ## 👥 Authors
 
-**Team Butter Chicken** 🧈🐔  
+**Team Butter Chicken**   
 - [@Naitik Jain](https://github.com/ParadoxNJ005)  
 - [@Yojit Kapoor](https://github.com/your-profile)  
 - [@Aayush Kanjani](https://github.com/your-profile)  
