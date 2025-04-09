@@ -93,8 +93,8 @@ We’d love your thoughts!
 
 - [@Naitik Jain](https://github.com/ParadoxNJ005)  
 - [@Yojit Kapoor](https://github.com/your-profile)  
-- [@Aayush Kanjani](https://github.com/your-profile)  
-- [@Dev Ruhela](https://github.com/your-profile)
+- [@Aayush Kanjani](https://github.com/Aayushkanjani)  
+- [@Dev Ruhela](https://github.com/Dev-Ruhela)
 
 ---
 
